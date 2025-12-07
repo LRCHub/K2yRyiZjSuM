@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "歪なわけ、教えてあげる",
+  "base_artist": "ナミネ",
+  "createdAt": "2025-12-07T07:29:48.028560Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歪なわけ、教えてあげる",
+      "artist": "ナミネ",
+      "has_synced": false,
+      "path": "select/pl_01_歪なわけ、教えてあげる_ナミネ.txt"
+    }
+  ]
+}
